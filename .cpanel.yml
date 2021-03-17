@@ -1,0 +1,4 @@
+deployment:
+tasks:
+- export DEPLOYPATH=/home/public_html/<path-to-remote-repo>
+- /bin/cp -r * $DEPLOYPATH
