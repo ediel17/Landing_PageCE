@@ -5,4 +5,4 @@ tasks:
 # - /bin/cp index.html $DEPLOYPATH
 # - /bin/rm -Rf $DEPLOYPATH
 # - /bin/mkdir $DEPLOYPATH
-- /bin/cp -R /home/contelexp/repositorio $DEPLOYPATH
+- /bin/cp -R /home/contelexp/repositories/CE $DEPLOYPATH
